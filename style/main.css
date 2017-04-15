@@ -34,7 +34,7 @@ hr {
 }
 
 .chev {
-  color: red;
+  color: #BB1919;
 }
 
 .yellow {
@@ -83,9 +83,9 @@ hr {
 }
 
 .bbtn {
-  padding: 15px;
+  padding: 10px 15px;
   background-color: #eee;
-  border-bottom: 3px solid blue;
+  border-bottom: 4px solid blue;
   cursor: pointer;
 }
 
@@ -95,4 +95,9 @@ hr {
 
 .tw {
   border-color: #47C7FA;
+}
+
+.chart h2 {
+  margin-top: 0;
+  font-weight: bold;
 }
